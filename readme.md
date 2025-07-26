@@ -87,14 +87,4 @@ See TerraHeal in action! Our prototype demonstrates how users can easily select 
 * **Phase 3 (Long-Term):** Global Coverage Expansion & Automation for all wildfires, AI-driven Restoration Recommendations, Integration with Climate Change Scenarios, Real-time Alerting, Mobile Accessibility.
 
 
-
-## 📧 Team
-
-For questions, collaborations, or more information, please reach out to our team:
-
-* [Email Address]
-* [M2 ]
-* [M3]
-
-
 ---
