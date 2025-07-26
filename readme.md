@@ -1,5 +1,8 @@
 # TerraHeal: Recovery Cold Spots
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yuDWv8hYQx-A1N8-5VGTAXmi2itpd8Ie?usp=sharing)
+
+
 ## Unmasking Lingering Wildfire Damage with Satellite Intelligence
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
