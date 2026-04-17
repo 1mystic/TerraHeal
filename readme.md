@@ -11,7 +11,7 @@
 
 ---
 
-## 💡 The Problem: The Silent Scars of Wildfires
+## The Problem: The Silent Scars of Wildfires
 
 Wildfires leave behind devastating immediate impacts, but the long-term ecological consequences often go unnoticed. While most burned areas are expected to recover over time, some patches of land exhibit **anomalously slow or stalled vegetation regrowth** for months or even years post-fire. These "Recovery Cold Spots" are critical indicators of severe, persistent damage, including:
 
@@ -21,7 +21,7 @@ Wildfires leave behind devastating immediate impacts, but the long-term ecologic
 
 Current wildfire analysis primarily focuses on immediate burn severity. Our project addresses the crucial gap of tracking the *rate and nature of recovery over time*, identifying these hidden ecological traps that generic assessments might miss.
 
-## ✨ The Solution: Precision Satellite Intelligence
+## The Solution: Precision Satellite Intelligence
 
 **TerraHeal** is an innovative Earth Observation project designed to automatically identify, map, and analyze these "Recovery Cold Spots" using advanced satellite imagery and machine learning. We provide actionable intelligence to guide targeted ecological restoration efforts, fostering long-term resilience in fire-affected landscapes.
 
@@ -38,7 +38,7 @@ Current wildfire analysis primarily focuses on immediate burn severity. Our proj
 * **Predictive Features (Future):** Forecast potential future risks like erosion hotspots, invasive species vulnerability, and long-term ecosystem shifts.
 * **Intuitive UI (Planned):** A modern, SaaS-like dashboard for easy access and visualization of complex data.
 
-## 🚀 Technical Details
+## Technical Details
 
 ### Technology Stack:
 
@@ -60,7 +60,7 @@ Current wildfire analysis primarily focuses on immediate burn severity. Our proj
 * **Burn Scar Data:** Copernicus data products, or derived dNBR (differenced Normalized Burn Ratio) from Sentinel/Landsat.
 * **Ancillary Data:** Soil type maps (e.g., SoilGrids), Digital Elevation Models (DEMs) for slope and shaded relief analysis.
 
-## 🔬 Methodology: Our Scientific Approach
+## 🔬 Methodology: Our Approach
 
 1.  **Data Acquisition & Preprocessing:** Automated fetching of Sentinel/Landsat imagery from GEE, applying cloud masks, and atmospheric corrections.
 2.  **Vegetation Index Time-Series Generation:** Calculation of spectral vegetation indices (like NVTI, NDVI) at specific post-fire intervals (1, 3, 6 months, and annually) to track detailed recovery progress.
@@ -68,7 +68,7 @@ Current wildfire analysis primarily focuses on immediate burn severity. Our proj
 4.  **Proprietary Anomaly Detection Model:** Statistical and machine learning algorithms rigorously compare each pixel's recovery trajectory against its predicted baseline, identifying significant negative deviations as "cold spots." We also analyze and group **similar shapes of cold spots** to categorize recovery failures.
 5.  **Contextual Analysis:** Overlaying identified cold spots with soil, slope, and other environmental data to infer potential causative factors for delayed recovery.
 
-## 📊 Impact: Why TerraHeal Matters
+##  Impact: Why TerraHeal Matters
 
 * **Targeted Restoration:** Directs limited resources to the *exact* areas where intervention is most critical, maximizing ecological recovery efforts.
 * **Reduced Environmental Risk:** Proactively mitigates erosion, water quality degradation, and biodiversity loss post-wildfire.
@@ -76,14 +76,15 @@ Current wildfire analysis primarily focuses on immediate burn severity. Our proj
 * **Advanced Scientific Understanding:** Offers novel insights into complex ecological recovery processes.
 * **Community & Economic Resilience:** Supports the long-term health, safety, and economic vitality of fire-affected regions.
 
-## 🎬 Prototype & Demo
+<!-- ## 🎬 Prototype & Demo
 
 See TerraHeal in action! Our prototype demonstrates how users can easily select existing wildfires, visualize pre-fire, post-fire, and critical cold spot maps, and observe dynamic changes across various post-fire intervals.
 
 **Watch the Demo Video:** [Google Drive Link to your Demo Video]
 *(Ensure the link is publicly viewable)*
+-->
 
-## 🗺️ Project Roadmap & Future Enhancements
+##  Project Roadmap & Future Enhancements
 
 * **Phase 1 (Current):** Core Cold Spot Detection (including NVTI/spectral coverage, 1-3-6 month intervals), Interactive Mapping (pre-fire, post-fire, cold spots), Wildfire Selection.
 * **Phase 2 (Near-Term):** Deeper Integration of Predictive Features (e.g., highly refined erosion modeling, invasive species vulnerability maps), User Collaboration Tools, API Integration.
